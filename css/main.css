@@ -330,7 +330,14 @@
       border: 5px solid white;
       background-color: white;
     }
+    header{
       background-color: black;
+      padding: 20px;
+    }
+    .headerClass{
+      display: flex;
+      justify-content: space-around;
+    }
     header h1{
       color: gold;
     }
