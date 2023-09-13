@@ -295,7 +295,7 @@
   }
   body{
     margin: 0 auto;
-    background-color: rgb(130, 37, 206);
+    background-color:gold;
   }
   .container{
     max-width: 1024px;
@@ -329,4 +329,12 @@
       border-radius: 25px;
       border: 5px solid white;
       background-color: white;
+    }
+      background-color: black;
+    header h1{
+      color: gold;
+    }
+      background-color: black;
+    footer p{
+      color: gold;
     }
