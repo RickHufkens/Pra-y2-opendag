@@ -291,7 +291,6 @@
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: white;
     font-size: larger;
-    font-weight: bold;
   }
   body{
     margin: 0 auto;
@@ -330,28 +329,10 @@
       border: 5px solid white;
       background-color: white;
     }
-    header{
-      background-color: black;
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-    }
-    .headerClass{
-      display: flex;
-      justify-content: space-around;
-    }
-    header h1{
-      color: gold;
-    }
     footer{
       background-color: black;
       padding: 20px;
-
     }
     footer p{
       color: gold;
-    }
-    main{
-      margin-top: 110px;
     }
