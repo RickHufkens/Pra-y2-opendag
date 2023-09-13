@@ -341,7 +341,11 @@
     header h1{
       color: gold;
     }
+    footer{
       background-color: black;
+      padding: 20px;
+
+    }
     footer p{
       color: gold;
     }
