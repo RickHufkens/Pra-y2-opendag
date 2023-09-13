@@ -314,13 +314,6 @@
   .schedule{
     margin-top: 100px;
   }
-  .schedule h1{
-    padding-left: 10px;
-  }
-  .style{
-    display: flex;
-    justify-content: space-between;
-    }
     .style img{
       width: 300px;
       float: left;
