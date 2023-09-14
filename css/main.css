@@ -349,3 +349,21 @@
     .infoRooster{
       font-style: italic;
     }
+    .vakkenFull{
+      margin-top: 100px;
+    }
+    .vakken{
+      display: grid;
+      grid-gap: 10px;
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+    .vakkenBoxen{
+      border: solid 3px white;
+      border-radius: 5px;
+      text-align: center;
+      padding: 2px;
+    }
+    .vakkenBoxen h2{
+      font-size: larger;
+      font-weight: bolder;
+    }
