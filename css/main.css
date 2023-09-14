@@ -305,6 +305,9 @@
     width: 400px;
     border-radius: 25px;
   }
+  header{
+    background-color: #000;
+  }
   .titlePage{
     display: flex;
     align-items: baseline;
