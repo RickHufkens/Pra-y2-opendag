@@ -304,6 +304,13 @@
   }
   .intro img{
     width: 470px;
+  .titlePage{
+    display: flex;
+    align-items: baseline;
+  }
+  .titlePage img{
+    width: 85px;
+    margin-right: 10px;
   }
   .intro p{
     padding-right: 30px;
