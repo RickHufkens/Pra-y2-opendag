@@ -293,13 +293,12 @@
     font-size: larger;
   }
   body{
-    margin: 0 auto;
     background-color:gold;
   }
   .intro{
     display: flex;
     justify-content: space-around;
-    align-items:center;
+    align-items:Center;
     margin-top: 20px;
   }
   .intro img{
@@ -325,7 +324,7 @@
     align-items: center;
   }
   .style p{
-    width: 500px;
+      width: 500px;
   }
     .style img{
       width: 300px;
