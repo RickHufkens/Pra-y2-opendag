@@ -303,7 +303,9 @@
     margin-top: 20px;
   }
   .intro img{
-    width: 470px;
+    width: 400px;
+    border-radius: 25px;
+  }
   .titlePage{
     display: flex;
     align-items: baseline;
