@@ -320,6 +320,13 @@
   .schedule{
     margin-top: 100px;
   }
+  .style{
+    display: flex;
+    align-items: center;
+  }
+  .style p{
+    width: 500px;
+  }
     .style img{
       width: 300px;
       margin: 10px;
