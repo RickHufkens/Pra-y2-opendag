@@ -367,6 +367,15 @@
       font-size: larger;
       font-weight: bolder;
     }
-    .versnelling{
+    .blokken{
       margin-top: 100px;
+    }
+    .blokkenGrid{
+      display: flex;
+      align-items: center;
+    }
+    .blokkenGrid img{
+      width: 400px;
+      background-color: white;
+      border-radius: 25px;
     }
