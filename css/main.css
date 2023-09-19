@@ -385,3 +385,16 @@
         grid-gap: 10px;
         grid-template-columns: 1fr 1fr 1fr;
       }
+      .opinion{
+        margin-top: 125px;
+        margin-bottom: 10px;
+      }
+      .opinionFlex{
+        display: flex;
+        align-items: center;
+      }
+      .opinionFlex img{
+        width: 300px;
+        border-radius: 25px;
+      }
+    
